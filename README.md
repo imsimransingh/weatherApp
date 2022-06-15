@@ -1,7 +1,7 @@
 # Author
 # Simran Singh
 
-# In this demo crud followings are included:
+# In this demo followings are included:
 
 On Backend
 
