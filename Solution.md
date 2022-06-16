@@ -11,7 +11,7 @@ On Backend
 - fetch data from weather api with zipcode and country
 
 
-# To run project with demo DB details
+# To run project
 npm install in backend
 npm run start in backed
 
